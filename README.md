@@ -1,7 +1,6 @@
 # Shops
-Shops en RageUI V2
+Shop en RageUI V2
 
-Voici un shop beaucoup opti que j'ai fait. 
 Le script est aussi protégé contre les dumpers et les cheaters un grand merci à Kadir#6400.
 
 Pour que le menu fonctionne il vous faut bien sûr es_Extended.
